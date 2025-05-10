@@ -14,7 +14,7 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
 
 <h2>📊 Desempenho Geral das Vendas</h2>
 
-- <b>Lucro Total:</b> $5.341,159..
+- <b>Lucro Total:</b> $5.341,159
 
 <hr>
 
