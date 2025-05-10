@@ -100,8 +100,7 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
   
 - Apresentação (Business Analysis em PDF): https://github.com/user-attachments/files/20140996/Business.Analysis.-.Pedal.Prime.pdf
 
-  
-- Download do Código (.ipynb): 
+- Código do Projeto (.ipynb): 
 
 <hr>
 
