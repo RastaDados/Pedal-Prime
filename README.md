@@ -94,8 +94,17 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
 
 <h2>🔗 Links</h2>
 
-- Dashboard do Power BI: 
-- Apresentação (Business Analysis em PDF): 
+- Dashboard do Power BI:
+  
+- Apresentação (Business Analysis em PDF):
+  
+- Documentação do Código Detalhadao:
+
+<hr>
+
+<h2>✍️ Autor</h2>
+
+- Mateus França - Linkedin: 
 
 
 
