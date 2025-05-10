@@ -28,13 +28,13 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
 
 <hr>
 
-Estados com Maior Volume de Vendas:
+<h4><b>Estados com Maior Volume de Vendas:</b></h4>
 
-British Columbia (Canadá)
+- British Columbia (Canadá)
 
-California (EUA)
+- California (EUA)
 
-New South Wales (Austrália)
+- New South Wales (Austrália)
 
 <hr>
 
