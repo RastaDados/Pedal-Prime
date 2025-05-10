@@ -100,13 +100,13 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
   
 - Apresentação (Business Analysis em PDF):
   
-- Documentação do Código Detalhadao:
+- Download do Código (.ipynb): 
 
 <hr>
 
 <h2>✍️ Autor</h2>
 
-- Mateus França - Linkedin: 
+- Mateus França -  <a href= https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/> Linkedin </a>
 
 
 
