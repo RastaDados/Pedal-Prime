@@ -121,6 +121,8 @@ fig.update_traces(
 fig.show()
 ```
 
+![01-Evolução Mensal de Receita e Lucro por Ano](https://github.com/user-attachments/assets/32163ec8-3049-4da6-8a0d-0adefab5eaaf)
+
 <br>
 
 ### Análise por Demografia
@@ -141,6 +143,8 @@ fig = px.bar(sales_by_location.head(20), x='State', y='Revenue',
 fig.update_layout(xaxis={'categoryorder':'total descending'})
 fig.show()
 ```
+
+![02-Top 20 estados por receita](https://github.com/user-attachments/assets/195f6b30-990f-4a5e-b7a7-6a41a6e5ddc7)
 
 <br>
 
@@ -165,6 +169,9 @@ fig.update_layout(margin=dict(t=50, l=25, r=25, b=25))
 fig.show()
 ```
 
+![03-Distribuição de Receita por Categoria de Produto](https://github.com/user-attachments/assets/336758ad-9d9b-42e5-85f0-b92c8033852b)
+
+
 <br>
 
 ### Análise de Clientes
@@ -187,6 +194,7 @@ fig.update_layout(xaxis={'categoryorder':'total descending'})
 fig.show()
 ```
 
+![04-Receita por Faixa Etária e Gênero](https://github.com/user-attachments/assets/c5cae41e-b40d-4687-ad4a-e9aa48cc3024)
 
 
 
