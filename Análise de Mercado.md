@@ -1,11 +1,11 @@
-## ANÁLISE DE MERCADO - PEDAL PRIME
+# ANÁLISE DE MERCADO - PEDAL PRIME
 
 <br>
 <hr>
  
-### 📊 Principais Insights 
+## 📊 Principais Insights 
  
-<b>📊 Desempenho Geral das Vendas:</b> Lucro Total: $5.341,159 
+<b> Desempenho Geral das Vendas:</b> Lucro Total: $5.341,159 
   
 <b>Países com Maior Receita</b> 
 
