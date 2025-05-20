@@ -94,13 +94,13 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
 
 <h2>🔗 Links</h2>
 
-- Dashboard do Power BI:
+- Dashboard do Power BI: <a href= https://app.powerbi.com/view? r=eyJrIjoiZWRjNTk1YzgtYWI3Ni00OTY5LWI1NjUtYThmMWJhNTkzMTJiIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9> Acesse </a>
 
-- Dashboard em Python (Dash): 
+- Dashboard em Python (Dash): <a href= https://github.com/RastaDados/Pedal-Prime/blob/main/Dashboard%20Python.mkd> Dashboard </a>
   
 - Apresentação (Business Analysis em PDF): <a href= https://github.com/RastaDados/Pedal-Prime/blob/main/An%C3%A1lise%20de%20Mercado.md> Apresentação </a> 
 
-- Código do Projeto (.ipynb): 
+- Dashboards e Códigos Utilizados neste Projeto: <a href= https://github.com/RastaDados/Pedal-Prime/tree/main/Dashboards> Acesse </a>
 
 <hr>
 
