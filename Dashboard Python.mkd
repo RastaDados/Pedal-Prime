@@ -5,4 +5,45 @@
 
 ### Filtro de Dados mais Gráfico de Linha
 
+<br>
+
 ![dash1](https://github.com/user-attachments/assets/b716c7e1-4145-42e7-b438-c61021c368e8)
+
+<br>
+<hr>
+
+### Gráfico de Barras
+
+<br>
+
+![newplot](https://github.com/user-attachments/assets/851b9bb3-d1a9-42d7-af32-d167b223ad4d)
+
+<br>
+<hr>
+
+### Gráfico Treemap
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9298ee35-9293-4795-a1d5-5f629ae228ec)
+
+<br>
+<hr>
+
+### Gráfico de Barras
+
+<br>
+
+![newplot (2)](https://github.com/user-attachments/assets/6c669e1c-5f56-4048-b13c-3ccc88abd052)
+
+<hr>
+<br>
+
+### Gráfico de Dispersão
+
+<br>
+
+![newplot (3)](https://github.com/user-attachments/assets/92685e2d-ba8f-4ed0-a9ea-c0bded358121)
+
+
+
