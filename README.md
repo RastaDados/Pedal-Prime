@@ -94,7 +94,7 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
 
 <h2>🔗 Links</h2>
 
-- Dashboard do Power BI: <a href=https://app.powerbi.com/view?r=eyJrIjoiZWRjNTk1YzgtYWI3Ni00OTY5LWI1NjUtYThmMWJhNTkzMTJiIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9> Acesse </a>
+- Dashboard do Power BI: <a href= "https://app.powerbi.com/view?r=eyJrIjoiZWRjNTk1YzgtYWI3Ni00OTY5LWI1NjUtYThmMWJhNTkzMTJiIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9"> Acesse </a>
 
 - Dashboard em Python (Dash): <a href= https://github.com/RastaDados/Pedal-Prime/blob/main/Dashboard%20Python.mkd> Dashboard </a>
   
