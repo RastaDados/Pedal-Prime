@@ -98,7 +98,7 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
 
 - Dashboard em Python (Dash): 
   
-- Apresentação (Business Analysis em PDF): https://github.com/user-attachments/files/20140996/Business.Analysis.-.Pedal.Prime.pdf
+- Apresentação (Business Analysis em PDF): <a href= https://github.com/RastaDados/Pedal-Prime/blob/main/An%C3%A1lise%20de%20Mercado.md> Apresentação </a> 
 
 - Código do Projeto (.ipynb): 
 
