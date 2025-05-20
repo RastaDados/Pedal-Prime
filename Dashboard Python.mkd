@@ -1,0 +1,8 @@
+# Dashboard Utilizando a  Biblioteca Dash do Python
+
+<br>
+<hr>
+
+### Filtro de Dados mais Gráfico de Linha
+
+![dash1](https://github.com/user-attachments/assets/b716c7e1-4145-42e7-b438-c61021c368e8)
