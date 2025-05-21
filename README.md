@@ -98,7 +98,7 @@ A análise contida neste projeto tem como o objetivo fornecer insights estratég
 
 - Dashboard em Python (Dash): <a href= https://github.com/RastaDados/Pedal-Prime/blob/main/Dashboard%20Python.mkd target = "blank"> Dashboard </a>
   
-- Apresentação (Business Analysis em PDF): <a href= https://github.com/RastaDados/Pedal-Prime/blob/main/An%C3%A1lise%20de%20Mercado.md target = "blank"> Apresentação </a> 
+- Apresentação (Business Analysis): <a href= https://github.com/RastaDados/Pedal-Prime/blob/main/An%C3%A1lise%20de%20Mercado.md target = "blank"> Apresentação </a> 
 
 - Dashboards e Códigos Utilizados neste Projeto: <a href= https://github.com/RastaDados/Pedal-Prime/tree/main/Dashboards target = "blank"> Acesse </a>
 
